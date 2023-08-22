@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Bommena
-- 👀 I’m an Undergraduate in Computer Science.
+- 👀 I’m a graduate of Computer Science.
 - 🌱 I work at DBS Tech as a Full Stack Developer.
 - 💻 I can code in Java, Python(basic), HTML, CSS, PHP, SQL, React.
 - 📫 abhishek.bommena22@gmail.com
